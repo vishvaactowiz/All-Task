@@ -1,0 +1,242 @@
+{
+    "restaurantsname": "Saraswati Niwas",
+    "details": {
+        "title": [
+            "Entire rental unit in Ahmedabad, India"
+        ],
+        "rooms": {
+            "guests": 6,
+            "bedrooms": 2,
+            "beds": 2,
+            "bathrooms": 2,
+            "years": 7
+        },
+        "rating": [
+            "4.74 · 39 reviews"
+        ],
+        "highlights": {
+            "titles": [
+                "Amenities for everyday living",
+                "Self check-in",
+                "Pet-friendly"
+            ],
+            "subtitles": [
+                "The Host has equipped this place for long stays – kitchen, washing machine, free parking and A/C included.",
+                "Check yourself in with the lockbox.",
+                "Furry friends are welcome throughout your stay."
+            ]
+        },
+        "description_items": [
+            "Escape to Marrakech in the Heart of the City!<br /><br />Experience Moroccan magic in our spacious flat, a serene oasis with modern amenities. Enjoy state-of-the-art internet, projector, and sound system. Unwind at our mocktail bar, perfect for gatherings or relaxation. Vibrant colors and intricate patterns transport you to Marrakech's bustling souks. This private retreat offers a unique haven for relaxation, entertainment, and inspiration. Make yourself at home and indulge in Moroccan magic!"
+        ],
+        "checkin_checkout_titles": [
+            "What this place offers"
+        ]
+    },
+    "pricing": {
+        "currency": "INR",
+        "discounted_price": 39256,
+        "original_price": 67432,
+        "price_type": "monthly"
+    },
+    "amenities": {
+        "Bathroom": [
+            "Hairdryer"
+        ],
+        "Bedroom and laundry": [
+            "Washing machine",
+            "Bed linen",
+            "Iron",
+            "Clothes storage"
+        ],
+        "Entertainment": [
+            "TV"
+        ],
+        "Heating and cooling": [
+            "Air conditioning",
+            "Heating"
+        ],
+        "Home safety": [
+            "Exterior security cameras on property",
+            "Fire extinguisher",
+            "First aid kit"
+        ],
+        "Internet and office": [
+            "Wifi",
+            "Dedicated workspace"
+        ],
+        "Kitchen and dining": [
+            "Kitchen",
+            "Cooking basics"
+        ],
+        "Parking and facilities": [
+            "Free parking on premises"
+        ],
+        "Services": [
+            "Pets allowed",
+            "Self check-in",
+            "Lockbox"
+        ],
+        "Not included": [
+            "Tumble dryer",
+            "Essentials",
+            "Smoke alarm",
+            "Carbon monoxide alarm",
+            "Hot water"
+        ]
+    },
+    "reviews": [
+        {
+            "reviewer_name": "Manushi",
+            "rating": 5,
+            "date": "January 2026",
+            "comment": "We had a really lovely stay and truly enjoyed our time here. The flat was clean, decent, safe, and instantly felt like home. Everything we needed was available, which made the stay very comfortable and stress-free. Vaibhav was extremely supportive and kind, he allowed us to check in early without any hassle and was always ready to help with a smile. Overall, a wonderful experience, and we’d happily recommend this place to anyone! ✨"
+        },
+        {
+            "reviewer_name": "Aman",
+            "rating": 3,
+            "date": "January 2026",
+            "comment": "The interior looked nice, but the space felt quite small considering the cost. One bedroom (with the TV) had very dirty bedsheets and a comforter with visible stains, which was disappointing. The interior also wasn’t well maintained, with exposed wires visible in multiple areas. Additionally, parking inside premises is not allowed due to society rules. Overall, there is definitely room for improvement."
+        },
+        {
+            "reviewer_name": "Sabiha",
+            "rating": 5,
+            "date": "December 2025",
+            "comment": "Vaibhav was responsive right from the start. Him and Avinash helped with suggestions and were patient enough with all our queries. Their place was aesthetically done and had a very positive vibe about it. Vaibhav became that friend you wanted in a new city. I would highly recommend his place when you're in Ahmedabad and needless to say I would be staying here if I revisit. Good job guys!"
+        },
+        {
+            "reviewer_name": "Saurabh",
+            "rating": 5,
+            "date": "November 2025",
+            "comment": "Offers a lot more than what you pay for this location and property.(Mental peace). Vaibhav is extremely professional and polite to guests. The property is so well maintained that it felt like own home. The entire premise asthetics is phenomenal and so relaxing. Awesome listing it is. I really loved it, so peaceful so relaxing. True value for money. <br/>Thank you Vaibhav."
+        },
+        {
+            "reviewer_name": "Vaibhav",
+            "rating": 4,
+            "date": "November 2025",
+            "comment": "I recently stayed at this Airbnb and had a great experience. The room was clean, comfortable, and exactly as described in the listing. The bed was cozy, and the space felt quiet and relaxing throughout my stay.<br/>The host was friendly, responsive, and made check-in incredibly smooth. They provided clear instructions and were always available if I had a question."
+        },
+        {
+            "reviewer_name": "Rudra",
+            "rating": 5,
+            "date": "January 2026",
+            "comment": "It was really a luxurious stay we ever had in air bnb everything was perfectly clean we got every facilities from Netflix to guitar and kitchen was fully complete with every utensils"
+        },
+        {
+            "reviewer_name": "Vishwas",
+            "rating": 4,
+            "date": "December 2025",
+            "comment": "place was well maintained and clean . some faucet(like sink and bathroom) and appliances were hard to use initially would be great if there were some instruction manuals. but I all stay was good will book again"
+        },
+        {
+            "reviewer_name": "Darshan",
+            "rating": 5,
+            "date": "December 2025",
+            "comment": "Amazing stay – highly recommended!<br/>I absolutely loved my stay here. The place was clean, comfortable, and exactly as described. It felt very welcoming and well maintained, making it easy to relax from the moment I arrived.<br/>A special thanks to Vaibhav and his brother Avinash — they were excellent hosts: polite, responsive, and always ready to help. Their hospitality truly made the experience even better.<br/>Overall, a great stay and I would definitely choose this place again. Highly recommended for anyone looking for a smooth and comfortable Airbnb experience!"
+        },
+        {
+            "reviewer_name": "Ritujoy",
+            "rating": 4,
+            "date": "December 2025",
+            "comment": "Vaibhav's brother was super responsive. House is nice & bathroom has fancy furnishings, but many don't work as expected. Needs a washing machine and a clothes line if you're staying more than a night. Parking is designated - no problems."
+        },
+        {
+            "reviewer_name": "Vinod",
+            "rating": 5,
+            "date": "December 2025",
+            "comment": "The stay was truly fantastic and no doubt about value for money. Everything worked well. The only thing we are sad about is that our stay was too short. This property's value became apparent when we need to stay with another host in the city. Thanks to Vibhav for making available his beautiful home for us"
+        },
+        {
+            "reviewer_name": "Jatin",
+            "rating": 3,
+            "date": "December 2025",
+            "comment": "The interior was beautiful and nicely decorated; however, the space was not cleaned before my arrival. The bedsheet had multiple stains, the second room smelled of cigarettes, and the bathroom drain was clogged due to trash accumulation."
+        },
+        {
+            "reviewer_name": "Shalu",
+            "rating": 5,
+            "date": "November 2025",
+            "comment": "⭐️⭐️⭐️⭐️⭐️<br/>I had a wonderful stay at this property in Ahmedabad! Vaibhav is an amazing host — extremely helpful, responsive, and considerate. He arranged an early check-in as per my request and guided me perfectly throughout my stay. The communication was clear and smooth. The property itself is beautiful, very clean, and has a lovely ambience that truly made me feel at home. I absolutely loved my stay here and would love to stay again whenever I visit Ahmedabad. Highly recommended!"
+        },
+        {
+            "reviewer_name": "Teddy",
+            "rating": 5,
+            "date": "November 2025",
+            "comment": "vaibhav is such a great host. He is so kind and  responsive. The place is so nice. Very clean and organized, The location is secure. The interior decoration in the apartment is so beautiful. <br/>Will definitely stay with him the next time I return to Ahamedabad. I highly recommend."
+        },
+        {
+            "reviewer_name": "Srikanishk",
+            "rating": 5,
+            "date": "1 week ago",
+            "comment": "Although the place is a little far from the main city, the place is amazing and vaibhav has been a very nice host. Definitely recommend if you have a vehicle."
+        },
+        {
+            "reviewer_name": "Juhi",
+            "rating": 5,
+            "date": "February 2026",
+            "comment": "We had a wonderful two-week stay at this beautiful flat and couldn’t recommend it more highly. The property itself is stunning – tastefully decorated, extremely comfortable, and clearly very well cared for. It felt like a real home rather than a short-term rental.<br/>The hosts were fantastic throughout our stay. Communication was always quick, helpful and welcoming, which made everything effortless from check-in to departure. A special mention also goes to the cleaners, who attended regularly and kept the flat spotless – something we really appreciated during a longer stay.<br/>The location is brilliant as well, with shops, restaurants and transport all within easy walking distance. It made exploring the area incredibly convenient.<br/>Overall, this was one of the best Airbnb experiences we’ve had. A beautiful property, attentive hosts and a perfect location – we would absolutely stay again."
+        },
+        {
+            "reviewer_name": "Nikhil",
+            "rating": 5,
+            "date": "February 2026",
+            "comment": "first things first, the stay was fantastic. It felt like a home as if I am staying in my own flat. Everything in that place is so beautiful and perfect that I don't have words to describe it. After actually seeing the place, I questioned myself why was I ever looking to stay in a hotel when I can stay in such a beautiful home. That place is so wonderful that I have stayed a full day in it just admiring. I still remember it and had great memories of it in my mind. Apart from flat, Vaibhav and Avinash was really good at communicating and very helpful throughout the entire process. Would book it everytime I come to Ahmedabad in future for sure. 🥰💟"
+        },
+        {
+            "reviewer_name": "Rishikesh",
+            "rating": 5,
+            "date": "October 2025",
+            "comment": "From the moment I entered, the place had a beautiful soul of its own — peaceful, warm and instantly comforting. It doesn’t feel like a commercial stay at all, more like a thoughtfully curated home with positive energy everywhere. The interiors, cleanliness and ambience are spot on, and the surroundings are calm yet very well-connected with small cafés and local spots just around the corner. Special mention to Vaibhav — incredibly polite, humble and super coordinated throughout the stay. He made everything effortless with quick responses and genuine care. If you’re looking for a stay that blends comfort, aesthetics, locality and human warmth — this place is a gem. Would love to come back again."
+        },
+        {
+            "reviewer_name": "Rutuja",
+            "rating": 5,
+            "date": "4 days ago",
+            "comment": "The place is really beautiful. Vaibhav was an amazing host and helpful throughout the stay."
+        },
+        {
+            "reviewer_name": "Rohan",
+            "rating": 5,
+            "date": "March 2026",
+            "comment": "it's a great place but bit far from center of ahemdabad. apart from this flat was amazing,  we enjoyed our time..."
+        },
+        {
+            "reviewer_name": "Juhi",
+            "rating": 5,
+            "date": "March 2026",
+            "comment": "Fantastic house. Our stay was split over 2 weeks and we very happily returned back here as we loved it so much!"
+        },
+        {
+            "reviewer_name": "Adya",
+            "rating": 4,
+            "date": "November 2025",
+            "comment": "Vaibhav and Avinash were very helpful and reactive. The place was well designed and comfortable. Access was super easy and the building security guard was able to let us in without issue, he had been informed of our arrival beforehand. <br/>Flat was clean but the bathrooms looked like they had not been deep cleaned, but Avinash was able to get them cleaned promptly once I notified him. <br/>Also FYI the detached bathroom does not have a sink, only toilet and shower. <br/>We were able to park our car and motorbike in the parking bay. Just to note that there were some questions from other residents since our vehicles had non-GJ plates, and we had a little trouble getting back in at night after the security guard changed. It was ok once we clarified that we had already parked the car inside during the day and entered it into the guest book. I think it was related to the other residents asking about unfamiliar vehicles in the building so just useful to know while booking."
+        },
+        {
+            "reviewer_name": "Akhil",
+            "rating": 5,
+            "date": "November 2025",
+            "comment": "The BnB is very nice and super comfortable, very affordable, is very clean and modern. Many things were automated which made use more appealing. Fantastic Place!!!!"
+        },
+        {
+            "reviewer_name": "Aniket",
+            "rating": 5,
+            "date": "December 2025",
+            "comment": "A wonderful stay, along with 2 year Kid. <br/>place to joy, ample place for our kid in the flat."
+        },
+        {
+            "reviewer_name": "Atin",
+            "rating": 5,
+            "date": "6 days ago",
+            "comment": "Excellent stay, great property."
+        }
+    ],
+    "profileView": {
+        "host_name": "Vaibhav",
+        "details": {
+            "Reviews": 43,
+            "Rating": 4.77,
+            "Years hosting": 7
+        }
+    }
+}
