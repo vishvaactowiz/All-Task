@@ -1,0 +1,75 @@
+{
+    "part_number": "GLWSM-1012-10",
+    "material": "iglidur® GLW",
+    "shape": "Sleeve bearings",
+    "dimensions": {
+        "d1": 10,
+        "d2": 12,
+        "b1": 10
+    },
+    "manufacturing_method": "Injection moulding",
+    "properties": [
+        "Resistant to shocks and impacts",
+        "Resistant to dirt and dust",
+        "Resistant to high loads (>60N/mm²)",
+        "Fogging behaviour according to DIN 75201-B",
+        "Low-cost material for high-volume production"
+    ],
+    "product_details": "<b>iglidur® GLW | Low-cost material for large volumes</b><br />With plain bearings made of the material iglidur® GLW, we can offer our customers an alternative to iglidur® G for large series applications. Featuring similar mechanical properties as iglidur® G, iglidur® GLW plain bearings are primarily recommended for static loads. These applications, where the properties of iglidur® G are unimportant to a degree , iglidur® GLW presents a cost-effective alternative.<br /><br /><b>Typical applications</b><br /><br /><a href=\"/info/industries-automotive-industry\">Automotive</a><br /><a href=\"/info/industries-machine-tool-industry\">Machine tools</a><br /><a href=\"/info/industries-robots-industry\">Robotics</a><br /><br />Find more applications here:<br /><a href=\"/info/industries-solutions-overview\">Industry solutions</a><br /><br />&nbsp;<table><tbody><tr><td><b>When to use it?</b><ul><li>When an economical universal bearing for high volumes is required</li><li>For high, primarily static loads</li><li>For low to medium speeds</li></ul></td><td><b>When not to use it?</b><ul><li>When mechanical reworking of the wall surface is required<br /><a href=\"/product/5\">iglidur® M250, sleeve bearing, mm</a></li><li>For primarily dynamic loads<br /><a href=\"/product/1\">iglidur® G, sleeve bearing, mm</a></li><li>When extreme wear resistance is required<br /><a href=\"/product/7\">iglidur® W300, sleeve bearing, mm</a></li><li>For use under water<br /><a href=\"/product/38?artNr=H2SM-0000-00\">iglidur® H2, sleeve bearing, mm</a></li></ul></td></tr></tbody></table><a href=\"/iglidur/cylindrical-bearing\">Use our filter options to find the suitable product</a><br /><br /><b>Tolerances and measuring system</b><br />The installation dimensions and tolerances of the iglidur® plain bearings depend on the material and wall thickness. For each material, the moisture absorption and the thermal expansion are decisive factors. Plain bearings with low moisture absorption can be installed with a smaller bearing clearance. The rule for wall thickness: the thicker the wall of the bearings, the larger the clearances must be.<br /><a href=\"/info/plain-bearings-iglidur-tolerances\">Testing methods</a><br /><br /><b>Assembly</b><br />iglidur® plain bearings are press-fit bearings. The inner diameter is only adjusted to the appropriate tolerance after pressing into the housing hole. The press-fit excess dimension can be up to 2% of the inner diameter. This ensures the secure press-fitting of the bearings. Axial or radial movements in the housing are thus reliably avoided.<br /><a href=\"/info/plain-bearings-iglidur-installation\">iglidur® - assembling, gluing, machining</a><br />&nbsp;",
+    "img": [
+        "https://igus.widen.net/content/3gdx021lgj/png/Zg_iglidur_G_J_M250_W300_X_P_P210_J260_J3_J350_W360_L250_R_D_J200_X6_V400_Z_UW500_H_H1_H370_C500_A180_A181_A200_A350_A500_A160_A290_UW160_T220_Q_Q2_F_H4_UW_N54_GV0_J2_AB_Q290_RW370_G1_E7_J3B_.png?w=300&h=300&position=c&color=ffffffff&quality=80&u=gqh1pb",
+        "https://igus.widen.net/content/pdvharn55l/png/iglidur%C2%AE_GLW.png?w=300&h=300&position=c&color=ffffffff&quality=80&u=gqh1pb"
+    ],
+    "technical_data": {
+        "dimensions": {
+            "Ø d1": "10 mm",
+            "Ø d2": "12 mm",
+            "b1": "10 mm",
+            "Length of bevel (f1)": "0.5 mm",
+            "Length of bevel (f2)": "0 mm",
+            "Length of bevel (f3)": "0 mm",
+            "Length of bevel (f4)": "0.5 mm",
+            "Bevel angle (f1)": "30 °",
+            "Bevel angle (f2)": "0 °",
+            "Bevel angle (f3)": "0 °",
+            "Bevel angle (f4)": "30 °"
+        },
+        "manufacturing_and_installation_tolerances": {
+            "shaft": "h9 (min: -0.0360 mm | max: 0.0000 mm)",
+            "d1": "E10 (min: 0.0250 mm | max: 0.0830 mm)",
+            "b1": "h13 (min: -0.2200 mm | max: 0.0000 mm)",
+            "d1 after press-fit": "min: 10.0250 mm | max: 10.0830 mm"
+        },
+        "general_properties": {
+            "﻿Coefficient of sliding friction, dynamic, against steel": "0,10 - 0,24 μ",
+            "pv value, max. (dry)": "0.30 MPa · m/s",
+            "Radioactive radiation max.": "3 ⋅ 10<sup>2</sup> Gy"
+        },
+        "mechanical_properties": {
+            "Max. recommended surface pressure": "80 MPa",
+            "Maximum running speed, rotating, short-term": "1 m/s",
+            "Pressure load": "74 MPa",
+            "Maximum running speed, linear, continous": "2.5 m/s",
+            "Maximum running speed, oscillating, continous": "0.6 m/s",
+            "Maximum running speed, oscillating, short-term": "0.7 m/s",
+            "Maximum running speed, rotating, continous": "0.8 m/s",
+            "Maximum running speed, linear, short-term": "3 m/s"
+        },
+        "requirements": {
+            "RoHS 2 compliant according to EU-Guideline 2011/65/EU": true,
+            "Detectable": false,
+            "Mould-free according to DIN EN ISO 846 Procedure A": false
+        },
+        "electricity_attributes": {
+            "Surface resistance": "> 10<sup>11</sup> Ω, test method DIN 53482",
+            "Specific volume resistance": "> 10<sup>11</sup> Ωcm, test method DIN IEC 93"
+        },
+        "thermal_attributes": {
+            "Max. temperature short": "160 °C",
+            "Heat conductivity": "0.24 W/m · K, Prüfmethode ASTM C 177",
+            "Thermal expansion coefficient (at 23°C/73°F)": "17 K–1 · 10–5 DIN53752",
+            "Max. temperature long": "100 °C",
+            "Lower application temperature": "-40 °C"
+        }
+    }
+}
