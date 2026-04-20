@@ -53,8 +53,8 @@ for i in img:
                 uri=urljoin(base_url, im.get('uri'))
                 product_images.append(uri)
                 
-print(set(product_images))
 
+print(set(product_images))
 output = {
     "part_number": part_number,
     "material": material,
