@@ -63,10 +63,11 @@ def process(d):
         img = sx("//img[@slot='poster']/@src")
         want_to_know = sx("//div[@id='critics-consensus']//p")
 
-        cast_crew, all_reviews, videos = [], [], []
+        cast_crew =[]
+        all_reviews= []
+        videos = []
 
-        # ---------------- CAST & CREW ----------------
-        cast_href = sx("//rt-button[@aria-label='Cast and Crew']/@href")
+        cast_href = urljoin(base_url,sx("string(//section[@aria-labelledby='cast-and-crew-label']//rt-button/@href)").strip())
         if cast_href:
             cast_page = extract_ld_json(urljoin(base_url, cast_href))
             if cast_page is not None:
@@ -77,12 +78,11 @@ def process(d):
                         "role": c.xpath("string(.//rt-text[@slot='credits'])").strip() or None,
                         "url": urljoin(base_url, c.xpath("string(@media-url)").strip()) if c.xpath("@media-url") else None
                     })
-
-        # ---------------- REVIEWS (API) ----------------
+        # print("cast ",cast_href)
         json_obj = tree.xpath("//script[@data-json='props']/text()")
         if json_obj:
             props = json.loads(json_obj[0])
-            emsId = (props.get("media") or {}).get("emsId")
+            emsId = (props.get("vanity") or {}).get("emsId")
 
             if emsId:
                 review_url = f"https://www.rottentomatoes.com/napi/rtcf/v1/movies/{emsId}/reviews?type=critic"
@@ -95,8 +95,8 @@ def process(d):
                         "count": r.get("originalScore"),
                         "review_type": r.get("scoreSentiment")
                     })
-
-        # ---------------- VIDEOS ----------------
+        # print("all reviews",props)
+        
         video_href = sx("//rt-button[@data-qa='videos-view-all-link']/@href")
         if video_href:
             video_page = extract_ld_json(urljoin(base_url, video_href))
@@ -109,7 +109,7 @@ def process(d):
                         "thumbnail": v.xpath("string(.//img/@src)").strip()
                     })
 
-        print("Done:", name)
+        # print("Done:", name)
 
         return {
             "name": name,

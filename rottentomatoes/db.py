@@ -71,7 +71,7 @@ def insert_movie(data):
         cursor.execute(query, values)
         conn.commit()
 
-        print("Inserted:", data.get("name"))
+        # print("Inserted:", data.get("name"))
 
     except Exception as e:
         print("DB INSERT ERROR:", e)
